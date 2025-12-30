@@ -1,226 +1,218 @@
 ============================================================
-ANEX – LONG‑TERM BUG BOUNTY & SECURITY MASTERY PLAN
-(Practice‑First • Money‑Later • Depth‑Over‑Breadth)
+ANEX – LONG‑TERM AI / LLM OFFENSIVE SECURITY MASTERY PLAN
+(Practice‑First • Depth‑Over‑Breadth • Future‑Critical)
 ============================================================
 
 CORE PRINCIPLE
 --------------
-- Focus on ONE complex platform at a time
-- Learn by PRACTICE, not theory
+- Focus on ONE AI system layer at a time
+- Learn by OBSERVATION + PRESSURE, not theory
+- Treat AI as an ENFORCEMENT ENGINE, not a chatbot
 - Document EVERYTHING in anex-labs
-- Money is a RESULT, not the goal
-- Build intuition before chasing payouts
+- Money is a RESULT, not a driver
+- Build intuition before automation
 
 
 ============================================================
-YEAR 1 (MONTH 1–12) – DISCORD DEEP MASTERY
+YEAR 1 (MONTH 1–12) – LLM / CHATGPT DEEP SYSTEM MASTERY
 ============================================================
 
 GOAL:
-- Build deep SaaS security intuition
-- Master authorization & logic flaws
-- Create a serious public research portfolio
-- Become Bugcrowd‑ready (mentally & technically)
+- Build deep intuition for AI enforcement & control
+- Understand how LLMs decide, refuse, comply, and fail
+- Master instruction hierarchy & safety boundaries
+- Create a serious public AI security research portfolio
+- Become AI Bug Bounty / Red Team–ready
 
 PLATFORM:
-- Discord ONLY
+- ChatGPT / LLM systems ONLY
+  (skills transferable to all AI platforms)
 
 MAIN SKILLS BUILT:
-- Role-based access control (RBAC)
-- Permission inheritance & overrides
-- Logic flaws & trust boundary failures
-- Web + API security
-- OAuth2 & integrations
-- Bots, automation, abuse scenarios
-- Real-time systems (WebSockets)
+- Instruction hierarchy (system vs developer vs user)
+- Safety & policy enforcement layers
+- Context & state handling
+- Multi‑turn reasoning failures
+- Prompt injection & control confusion
+- Tool / agent logic (conceptual → practical)
+- AI + SaaS integration failure patterns
 
 DAILY METHOD:
-- Daily Discord Practice – Day X
-- One system per day
-- One failure hypothesis
-- One experiment
-- One GitHub documentation entry
+- Daily LLM Practice – Day X
+- One AI subsystem per day
+- One behavior hypothesis
+- One controlled experiment
+- One documented failure or confirmation
+- One GitHub entry
+
+------------------------------------------------------------
 
 REPO STRUCTURE:
 anex-labs/
-└── 04-labs/
-    └── discord/
-        ├── 01-roles-permissions/
-        ├── 02-channel-overrides/
-        ├── 03-bots-intents/
-        ├── 04-oauth2-testing/
-        ├── 05-api-rate-limits/
-        ├── 06-automation-scripts/
-        ├── 07-failure-patterns/
-        └── README.md
+└── 03-ai-security/
+    ├── 01-instruction-hierarchy/
+    ├── 02-safety-enforcement/
+    ├── 03-context-state/
+    ├── 04-prompt-injection/
+    ├── 05-multi-turn-failures/
+    ├── 06-agent-tool-logic/
+    ├── 07-failure-patterns/
+    └── README.md
+
+------------------------------------------------------------
 
 MONTH BREAKDOWN:
 
 Months 1–3:
-- Permission models
-- Role hierarchy
-- Channel/category inheritance
-- Admin vs moderator trust
-- Common logic mistakes
+- Instruction hierarchy
+- System vs user authority
+- Refusal behavior
+- Policy vs reasoning conflicts
 OUTPUT:
-- Strong authz mental model
-- Zero confusion about permissions
+- Zero confusion about who controls the model
+- Clear mental model of AI obedience
 
 Months 4–6:
-- Bots vs users trust differences
-- Slash commands
-- API misuse
-- Rate limits & abuse
-- Automation scripts
+- Context windows
+- Memory illusions
+- Multi‑turn manipulation
+- Instruction decay & drift
 OUTPUT:
-- You think like an attacker AND developer
+- You understand why models "forget" or contradict
+- You think like an AI control engineer
 
 Months 7–9:
-- OAuth2 flows
-- Integrations
-- Token scope abuse
-- Account linking logic
+- Prompt injection patterns
+- Role confusion
+- Safety boundary pressure
+- Hidden assumption failures
 OUTPUT:
-- SaaS OAuth intuition (rare skill)
+- You can reliably stress safety systems
+- You see logic flaws, not tricks
 
 Months 10–12:
-- Abuse scenarios
-- Bugcrowd-style thinking
-- Writing impact-focused reports
-- Mapping Discord bugs → SaaS bugs
+- Agent & tool reasoning (conceptual → applied)
+- AI + SaaS workflow failures
+- Writing impact‑focused AI security reports
+- Mapping AI bugs → cloud & financial systems
 OUTPUT:
-- Ready to hunt real programs
+- Ready for real AI programs
+- Strong AI red teaming intuition
 
 EXPECTED MONEY:
-- $0–$200/month (not the focus)
+- $0 → $1,500/month
+- Not consistent
+- Used as validation, not income
 
 
 ============================================================
-YEAR 2 (MONTH 13–24) – SAAS EXPANSION & FIRST REAL MONEY
+YEAR 2 (MONTH 13–24) – MULTI‑LLM & AI SAAS EXPANSION
 ============================================================
 
 GOAL:
-- Transfer Discord skills to other platforms
-- Start earning consistent bug bounty income
-- Build multi-platform intuition
+- Transfer AI control intuition across platforms
+- Start consistent AI security income
+- Build cross‑model failure intuition
 
 PLATFORMS:
-- GitHub
-- Slack
-- Shopify
-- Atlassian (Jira/Confluence)
-- Dropbox / Box
+- ChatGPT
+- Claude
+- Open‑source LLMs (locally)
+- AI SaaS tools & agents
 
 SKILLS:
-- Cross-platform authorization flaws
-- API & webhook abuse
-- App integrations
-- Workflow logic bugs
+- Cross‑model safety differences
+- Tool invocation abuse
+- Agent autonomy failures
+- AI workflow logic bugs
 
 REPO ADDITIONS:
 anex-labs/
-└── 04-labs/
-    ├── discord/
-    ├── github/
-    ├── slack/
-    ├── shopify/
-    └── atlassian/
-
-METHOD:
-- Same daily practice system
-- Compare each platform to Discord
-- Focus on DIFFERENCES, not basics
+└── 03-ai-security/
+    ├── chatgpt/
+    ├── claude/
+    ├── open-source/
+    └── ai-saas/
 
 EXPECTED MONEY:
-- $500 → $2,500/month
-- First real accepted reports
-- Reputation starts building
+- $2,000 → $6,000/month
+- First serious accepted reports
+- Early consulting & freelancing
 
 
 ============================================================
-YEAR 3–4 – CLOUD PLATFORMS (HIGH SKILL, HIGH PAY)
+YEAR 3–4 – AI + CLOUD / AUTOMATION SYSTEMS
 ============================================================
 
 GOAL:
-- Master enterprise & cloud SaaS security
-- Learn multi-tenant failures
-- Hunt higher-paying bugs
+- Break AI systems embedded in real infrastructure
+- Master AI‑driven decision pipelines
 
 PLATFORMS:
-- AWS
-- GCP
-- Azure
-- Cloudflare
-- Microsoft 365
+- AI + cloud orchestration
+- AI‑powered SaaS
+- AI agents controlling workflows
 
 SKILLS:
-- IAM misconfigurations
-- API abuse at scale
-- Tenant isolation failures
-- Enterprise OAuth & SSO logic
+- AI‑IAM logic failures
+- AI authorization mistakes
+- Autonomous action risks
+- Multi‑tenant AI systems
 
 FOCUS:
 - Fewer reports
 - Much higher impact
-- Complex systems only
+- Complex real‑world systems
 
 EXPECTED MONEY:
-- $1,500 → $7,000+/month
-- Occasional $10k+ bounties
+- $8,000 → $20,000+/month
+- Private programs & retainers
 
 
 ============================================================
-YEAR 5–7 – PAYMENT & FINANCIAL PLATFORMS
+YEAR 5–7 – AI + FINANCIAL / HIGH‑RISK SYSTEMS
 ============================================================
 
 GOAL:
-- Enter high-risk, high-reward territory
-- Specialize in money logic
+- Specialize in AI‑controlled money & risk systems
+- Enter high‑reward territory
 
 PLATFORMS:
-- Stripe
-- PayPal
-- Coinbase
-- Crypto exchanges (scoped only)
+- AI fintech
+- AI fraud detection
+- AI trading & payment automation
 
 SKILLS:
-- Transaction logic
-- Race conditions
-- API abuse
-- Multi-user financial edge cases
+- AI decision race conditions
+- Transaction logic failures
+- Automation trust failures
 
 IMPORTANT:
-- Extremely strict scope & ethics
-- Fewer but very valuable bugs
+- Strict scope
+- High ethics
+- Low volume, high value
 
 EXPECTED MONEY:
-- $5,000 → $15,000+/month
-- Rare months: $25k–$50k+
+- $15,000 → $40,000+/month
+- Rare months: $60k+
 
 
 ============================================================
-YEAR 8+ – AI PLATFORMS & AGENTS (FUTURE EDGE)
+YEAR 8+ – AI RED TEAM / CONTROL SYSTEMS AUTHORITY
 ============================================================
 
 GOAL:
-- Become elite in AI security & red teaming
-- Future-proof your career
+- Become an elite AI control & failure expert
+- Influence how AI systems are secured
 
-PLATFORMS:
-- OpenAI
-- Anthropic
-- HuggingFace
-- AI SaaS agents
-
-SKILLS:
-- Prompt injection
-- Agent logic flaws
-- Multi-agent trust boundaries
-- AI + SaaS integration failures
+FOCUS:
+- Agent safety
+- Multi‑AI coordination
+- AI governance & enforcement design
 
 EXPECTED MONEY:
-- $2,000 → $10,000/month average
-- Rare critical AI flaws: $50k+
+- $30,000 → $60,000+/month average
+- Research, advisory, tooling, leadership
 
 
 ============================================================
@@ -228,11 +220,11 @@ FINAL OUTCOME
 ============================================================
 
 By following this plan:
-- You gain deep system intuition
-- You avoid beginner mistakes
-- You build a serious public portfolio
-- You scale from $0 → $10k+/month realistically
-- You future-proof yourself for cloud & AI security
+- You master AI enforcement systems
+- You build rare, future‑proof skills
+- You avoid saturated paths
+- You scale from $0 → elite income
+- You become relevant for the next 20 years
 
 This is not hype.
-This is how elite researchers are made.
+This is a long‑term leverage strategy.
